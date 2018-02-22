@@ -1,3 +1,21 @@
 body {
-    background-color: #000000;
+    background-color: #0e0d0da9;
+}
+h2 {
+    padding: 10px 0px 10px 0px;    
+}
+.middle {
+    margin-top: 35px;
+    background-color: #7b62cc;   
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;    
+    border: solid;
+}
+.tvLabels {
+    padding: 10px 0px 15px 0px;
+    background-color: #e1dee9;
+    border-bottom-right-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;     
 }
