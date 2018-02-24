@@ -4,6 +4,9 @@ body {
 h2 {
     padding: 10px 0px 10px 0px;    
 }
+h5 {
+    font-size: 110%;
+}
 .middle {
     margin-top: 35px;
     background-color: #7b62cc;   
